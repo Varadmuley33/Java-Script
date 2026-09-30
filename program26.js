@@ -9,7 +9,7 @@ function CountDigits(No)
         iCount++;
         No = No/10;   // Issue
 
-    }
+    }   
     return iCount;
     
 }
