@@ -11,7 +11,7 @@ function CountDigits(No)
         //No = parseInt(No/10);   he pan chaltaa 
     }
     return iCount;
-    
+       
 }
 
 function main()
