@@ -9,7 +9,7 @@ function main()
     console.log(iValue / 10);
 
 }
-
+    
 main();
 
 
