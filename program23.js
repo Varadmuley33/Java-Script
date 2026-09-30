@@ -2,7 +2,7 @@ function Factorial(No)
 {
     iFact = 1;
 
-    while(No != 0)
+    while(No != 0)   
     {
         iFact = iFact * No;
         No--;
