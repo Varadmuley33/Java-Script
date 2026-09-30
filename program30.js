@@ -7,7 +7,7 @@ function CountDigits(No)
     {
         iCount++;
         No = Math.floor(No/10); 
-        
+           
     }
     return iCount;
     
