@@ -9,7 +9,7 @@ function CheckPerfect(No)
         {
             iSum = iSum + iCnt;
         }
-    }
+    }  
 
     if(iSum == No)
     {
