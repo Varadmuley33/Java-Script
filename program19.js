@@ -9,7 +9,7 @@ function CheckEvenOdd(No)
         console.log("It is odd number");
     }
 
-}
+}   
 
 function main()
 {
