@@ -4,7 +4,7 @@ function Addition(iNo1 , iNo2)
 {
     let iAns = 0;
     iAns = iNo1 + iNo2;
-    return iAns;
+    return iAns;   
 }
 
 function main()
