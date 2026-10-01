@@ -2,7 +2,7 @@
 
 function Display(no)
 {
-    console.log("Jay ganesh..." + no);
+    console.log("Jay ganesh..." + no);  
     return ++no;
 }
 
