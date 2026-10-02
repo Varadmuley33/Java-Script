@@ -6,3 +6,4 @@ console.log(no);
 console.log(typeof(no));
  
 
+   
