@@ -10,7 +10,7 @@ function SumDigits(No)
         No = Math.floor(No/10); 
     }
     return iSum;
-    
+       
 }
 
 function main()
