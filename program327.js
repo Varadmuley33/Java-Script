@@ -10,4 +10,4 @@ console.log(no2);
 console.log(typeof(no2));
 
  
-
+   
