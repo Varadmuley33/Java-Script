@@ -1,6 +1,6 @@
 // Not Allowed two construcors
 class Demo
-{
+{    
     constructor()     
     {
         this.No1 = 0;
