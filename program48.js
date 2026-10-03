@@ -1,7 +1,7 @@
 class Demo
 {
     constructor(A , B)   // Parameterized
-    {
+    {   
         this.No1 = A;
         this.No2 = B;
 
