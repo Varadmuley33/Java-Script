@@ -5,7 +5,7 @@ class Demo
         this.No1 = No1;
         this.No2 = No2;
 
-        console.log("Inside Construcor");
+        console.log("Inside Construcor");   
     }
 }
 
