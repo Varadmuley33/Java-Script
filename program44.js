@@ -11,7 +11,7 @@ function Maximum(Brr)
          iMax = Brr[iCnt];
       }
    }
-   return iMax;
+   return iMax;   
 }
 function main()
 {
