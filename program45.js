@@ -11,7 +11,7 @@ function Minimum(Brr)
          iMin = Brr[iCnt];
       }
    }
-   return iMin;
+   return iMin;    
 }
 function main()
 {
