@@ -2,7 +2,7 @@ class Demo
 {
     constructor()
     {
-        this.No1 = 0;
+        this.No1 = 0;   
         this.No2 = 0;
 
         console.log("Inside Construcor");
