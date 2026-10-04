@@ -2,7 +2,7 @@
 class Arithmatic
 {
     constructor(A,B)   
-    {
+    {   
         this.No1 = A;
         this.No2 = B;
     }
