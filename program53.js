@@ -5,7 +5,7 @@ function main()
     console.log(typeof(str));
     
     console.log(str.length);
-    
+       
 }
 
 main();
