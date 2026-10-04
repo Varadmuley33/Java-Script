@@ -9,7 +9,7 @@ function count (str)
         {
             iCount++;
         }
-    }   
+    }      
     
     console.log(iCount);
 }
