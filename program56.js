@@ -6,7 +6,7 @@ function main()
     let iCount = 0 ;
     
     for(iCnt = 0 ; iCnt< str.length; iCnt++)
-    {
+    {   
         if(str.charAt(iCnt) == 'l');
         {
             iCount++;
