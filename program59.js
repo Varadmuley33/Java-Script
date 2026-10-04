@@ -7,7 +7,7 @@ function main()
     let Arr = str.split("");
     console.log(typeof(Arr));
     
-}
+}   
 
 main();
 
