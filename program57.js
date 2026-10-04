@@ -5,7 +5,7 @@ function count (str)
     
     for(iCnt = 0 ; iCnt< str.length; iCnt++)
     {
-        if(str.charAt(iCnt) == 'l');
+        if(str.charAt(iCnt) == 'l');   
         {
             iCount++;
         }
