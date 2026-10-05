@@ -8,7 +8,7 @@ function ReverseString(str)
         rev = rev + str.charAt(i);
     }
 
-    return rev;
+    return rev;   
 }
 
 function main()
