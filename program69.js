@@ -6,7 +6,7 @@ function Factorial(num)
     for(i = 1; i <= num; i++)
     {
         fact = fact * i;
-    }
+    }   
 
     return fact;
 }
