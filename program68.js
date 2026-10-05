@@ -13,7 +13,7 @@ function CountVowels(str)
             count++;
         }
     }
-
+   
     return count;
 }
 
