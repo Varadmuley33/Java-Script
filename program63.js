@@ -10,7 +10,7 @@ function CountChar(str, ch)
             count++;
         }
     }
-
+    
     return count;
 }
 
