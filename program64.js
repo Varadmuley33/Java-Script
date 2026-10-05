@@ -7,7 +7,7 @@ function SumDigits(num)
         sum = sum + (num % 10);
         num = Math.floor(num / 10);
     }
-
+   
     return sum;
 }
 
