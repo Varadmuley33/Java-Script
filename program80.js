@@ -11,7 +11,7 @@ function Display(arr)
 function main()
 {
     let arr = [5, 10, 15, 20];
-
+   
     Display(arr);
 }
 
