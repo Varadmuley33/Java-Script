@@ -7,7 +7,7 @@ function SmallestDigit(num)
         let digit = num % 10;
 
         if(digit < min)
-        {
+        {   
             min = digit;
         }
 
