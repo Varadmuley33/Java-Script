@@ -7,7 +7,7 @@ function CheckNumber(num)
     else if(num < 0)
     {
         return "Negative";
-    }
+    }    
     else
     {
         return "Zero";
