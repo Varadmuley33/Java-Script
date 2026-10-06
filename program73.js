@@ -9,7 +9,7 @@ function MinArray(arr)
         {
             min = arr[i];
         }
-    }
+    }   
 
     return min;
 }
