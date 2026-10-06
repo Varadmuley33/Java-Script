@@ -13,7 +13,7 @@ function ReverseArray(arr)
         j--;
     }
 
-    return arr;
+    return arr;   
 }
 
 function main()
