@@ -12,7 +12,7 @@ function CheckPalindrome(str)
     {
         return true;
     }
-    else
+    else   
     {
         return false;
     }
