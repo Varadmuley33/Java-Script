@@ -9,7 +9,7 @@ function SumArray(arr)
     }
 
     return sum;
-}
+}   
 
 function main()
 {
