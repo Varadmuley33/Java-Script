@@ -10,7 +10,7 @@ function SumEven(arr)
             sum = sum + arr[i];
         }
     }
-
+    
     return sum;
 }
 
