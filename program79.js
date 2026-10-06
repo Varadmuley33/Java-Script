@@ -7,7 +7,7 @@ function main()
 {
     let str = "Hello JavaScript";
 
-    let result = StringLength(str);
+    let result = StringLength(str);   
     console.log("Length:", result);
 }
 
