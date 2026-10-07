@@ -6,4 +6,4 @@ function Display()
     console.log("Jay ganesh...");
 }
 
-Display();
+Display();   
